@@ -1,0 +1,12 @@
+{
+  "name": "amazon-price-tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andrew Dazs",
+  "license": "MIT",
+  "dependencies": {
+    "after-load": "^1.0.4",
+    "jssoup": "^0.0.10",
+    "request": "^2.88.0"
+  }
+}
