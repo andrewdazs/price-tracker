@@ -7,7 +7,7 @@
   "dependencies": {
     "after-load": "^1.0.4",
     "jssoup": "^0.0.10",
-    "lodash": "4.17.13",
+    "lodash": "^4.17.15",
     "request": "^2.88.0"
   }
 }
